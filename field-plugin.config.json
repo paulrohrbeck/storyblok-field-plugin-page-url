@@ -1,3 +1,16 @@
 {
-  "options": []
+  "options": [
+    {
+      "name": "baseUrl",
+      "value": "https://www.getflip.com"
+    },
+    {
+      "name": "slugPattern",
+      "value": "^en/"
+    },
+    {
+      "name": "addTrailingSlash",
+      "value": "true"
+    }
+  ]
 }
