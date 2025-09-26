@@ -17,6 +17,8 @@ const FieldPlugin: FunctionComponent = () => {
     return null
   }
 
+  console.log('data', data) // data.story.full_slug
+
   const closeModal = () => {
     actions.setModalOpen(false)
   }
