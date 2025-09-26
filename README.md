@@ -1,4 +1,4 @@
-# Flip Page URL Field Plugin
+# Page URL Field Plugin
 
 A simple Storyblok field plugin that displays the current page's live URL based on the story's slug. This plugin helps users (especially non-technical ones) understand what URL their content will have when published.
 
